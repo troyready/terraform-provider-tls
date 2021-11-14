@@ -1,3 +1,10 @@
+## 3.1.50 (November 13, 2021)
+
+NEW FEATURES:
+
+* Add `tls_ssh_key_scan` data source ([#97](https://github.com/hashicorp/terraform-provider-tls/pull/97))
+* Add pfx bundle to certificates ([#119](https://github.com/hashicorp/terraform-provider-tls/pull/119))
+
 ## 3.1.0 (February 19, 2021)
 
 Binary releases of this provider now include the darwin-arm64 platform. This version contains no further changes.
